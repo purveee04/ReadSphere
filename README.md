@@ -1,4 +1,4 @@
-# InkSpire
+# ReadSphere
 
 **MERN Stack Book Rental Platform**
 
